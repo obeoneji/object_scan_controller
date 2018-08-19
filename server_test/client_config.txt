@@ -1,0 +1,17 @@
+// client number
+client_number 2
+
+//capture image number per pattern
+seq_num 10
+
+//each rotate angle
+rot_ang 3
+
+//for each angle how many pattern need to capture
+pattern_num 5
+
+//server address
+server_ip 10.1.10.188
+
+//folder path
+folder_path E:\\

@@ -1,0 +1,13 @@
+﻿  main.cpp
+main.cpp(57): warning C4101: 'e': unreferenced local variable
+main.cpp(360): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  nanoRotator.cpp
+nanoRotator.cpp(124): warning C4800: 'short': forcing value to bool 'true' or 'false' (performance warning)
+nanoRotator.cpp(164): warning C4800: 'short': forcing value to bool 'true' or 'false' (performance warning)
+  Generating code
+  4 of 234 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  server_test.vcxproj -> E:\Yu_Plex-VR\object_scanning\capture_server-master\capture_server-master\x64\Release\server_test.exe
+  server_test.vcxproj -> E:\Yu_Plex-VR\object_scanning\capture_server-master\capture_server-master\x64\Release\server_test.pdb (Full PDB)
